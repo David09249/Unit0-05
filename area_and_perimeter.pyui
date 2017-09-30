@@ -1,0 +1,87 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{86, 122}, {372, 53}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "question_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "00E3B88D-AE8A-46DF-94A0-DFB57307870B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "What is the area and perimeter of a rectangle with a length of 5 cm and a width of 3 cm?",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{230, 232}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "answer_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Answer",
+          "uuid" : "41C19CA7-C655-4B98-9173-60E8C156210C",
+          "class" : "Button",
+          "name" : "",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{195, 309}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "area_answer_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "1BDCB0D2-E80A-4C92-9700-1E52B5AB3045",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{195, 381}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "perimeter_answer_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "F93A39EE-327B-49B3-BE5F-239A8886DD35",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
